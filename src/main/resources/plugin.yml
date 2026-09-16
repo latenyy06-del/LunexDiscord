@@ -1,0 +1,10 @@
+name: LunexDiscord
+version: '1.0'
+main: me.lunex.LunexDiscord
+api-version: '1.21'
+folia-supported: true
+
+authors:
+  - Lunex
+
+description: LunexVanilla Discord giriş ve çıkış sistemi
