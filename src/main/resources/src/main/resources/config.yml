@@ -1,0 +1,5 @@
+webhook: "BURAYA_DISCORD_WEBHOOK"
+
+messages:
+  join: "[+] **%player%** sunucuya giriş yaptı!"
+  quit: "[-] **%player%** sunucudan ayrıldı!"
